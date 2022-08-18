@@ -27,7 +27,6 @@
   <img src="https://user-images.githubusercontent.com/53383378/185437426-caee6ed3-cf28-4656-94dd-1f3839229452.png" width="30px">
 </div>
 
-
 <!--
 **eydertinoco/eydertinoco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
