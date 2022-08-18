@@ -1,4 +1,5 @@
 # Hi there, my name is Eyder Tinoco
+<img src="https://user-images.githubusercontent.com/53383378/185438917-84df6f6e-e91d-4e82-84ef-42f46b5b3db0.jpeg">
 ## About me
 - 🔭 I’m currently working on Front-end;
 - 🌱 I’m currently learning Typescript;
