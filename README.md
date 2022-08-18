@@ -1,11 +1,10 @@
-### Hi there 👋
-
+# Hi there, my name is Eyder Tinoco
+## About me
 - 🔭 I’m currently working on Front-end;
 - 🌱 I’m currently learning Typescript;
 
 ## My Work Experience
 
-## My Experience in Area
 
 ### Language
 <div>
