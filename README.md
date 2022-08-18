@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Typescript;
 
 ## Linguagens
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" style="width=100px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" width="100px">
 
 <!--
 **eydertinoco/eydertinoco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
