@@ -4,10 +4,12 @@
 - 🌱 I’m currently learning Typescript;
 
 ## My Experience
-<img src="https://user-images.githubusercontent.com/53383378/185432937-b3088ae4-c7d2-4a0e-88e8-0540ecb19363.svg" width="50px">
-<img src="https://user-images.githubusercontent.com/53383378/185432939-2acedff8-e7f2-4692-a67c-2cbd800a0e28.svg" width="50px">
-<img src="https://user-images.githubusercontent.com/53383378/185432944-12b84697-638a-4a41-9a50-4058d401677e.svg" width="50px">
-<img src="https://user-images.githubusercontent.com/53383378/185432942-e3deaec4-e6b1-4f9d-82ca-3b1a9e354c4c.svg" width="50px">
+<div>
+  <img src="https://user-images.githubusercontent.com/53383378/185432944-12b84697-638a-4a41-9a50-4058d401677e.svg" width="50px">
+  <img src="https://user-images.githubusercontent.com/53383378/185432939-2acedff8-e7f2-4692-a67c-2cbd800a0e28.svg" width="50px">
+  <img src="https://user-images.githubusercontent.com/53383378/185432937-b3088ae4-c7d2-4a0e-88e8-0540ecb19363.svg" width="50px">
+  <img src="https://user-images.githubusercontent.com/53383378/185432942-e3deaec4-e6b1-4f9d-82ca-3b1a9e354c4c.svg" width="50px">
+ </div>
 
 
 
