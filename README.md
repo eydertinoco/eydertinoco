@@ -15,6 +15,7 @@
 <div>
   <img src="https://user-images.githubusercontent.com/53383378/185439867-20d5afa0-c5dc-449e-a4dd-9ac93124b4e9.png" width="30px">
   <img src="https://user-images.githubusercontent.com/53383378/185439872-35782dad-5698-4540-bac3-9be7b99ad3e8.png" width="30px">
+  <img src="https://docs.nestjs.com/assets/logo-small.svg" width="30px">
 </div>
 
 ### Framework
